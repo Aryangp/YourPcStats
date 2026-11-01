@@ -1,0 +1,10 @@
+# Xcode
+build/
+build_release/
+dist/
+staging/
+DerivedData/
+*.xcuserstate
+project.xcworkspace/xcuserdata/
+*.xcuserdatad/
+.DS_Store
